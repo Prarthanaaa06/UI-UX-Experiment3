@@ -5,11 +5,17 @@ To evaluate and compare the usability of Swiggy Instamart and Blinkit using heur
 
 ## Algorithm:
 1.Select two apps (Swiggy Instamart and Blinkit).
+
 2.Apply usability heuristics (consistency, navigation, error prevention, etc.)
+
 3.Identify usability issues in both apps.
+
 4.Propose design improvements.
+
 5.Create Version A (original) and Version B (improved).
+
 6.Conduct A/B testing to compare user behavior.
+
 7.Analyze results and performance differences.
 
 ## Output:
